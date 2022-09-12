@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="209" height="48" viewBox="0 0 209 48">
+  <g id="Group_1404" data-name="Group 1404" transform="translate(-885 -12483)">
+    <g id="Rectangle_426" data-name="Rectangle 426" transform="translate(885 12483)" fill="none" stroke="#7e7e7e" stroke-width="1">
+      <rect width="209" height="48" rx="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="208" height="47" rx="23.5" fill="none"/>
+    </g>
+    <g id="Group_1405" data-name="Group 1405" transform="translate(-1)">
+      <g id="Group_1399" data-name="Group 1399" transform="translate(38.973 9.506)">
+        <text id="NOT_GOOD" data-name="NOT GOOD" transform="translate(928.027 12495.494)" font-size="15" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">NOT GOOD</tspan></text>
+        <text id="_09_Dis_Likes_" data-name="(09 Dis Likes)" transform="translate(928.027 12512.494)" font-size="11" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">(09 Dis Likes)</tspan></text>
+      </g>
+      <path id="Icon_awesome-thumbs-down" data-name="Icon awesome-thumbs-down" d="M0,2.188v9.375a.937.937,0,0,0,.938.938H4.063A.937.937,0,0,0,5,11.563V2.188a.937.937,0,0,0-.937-.937H.938A.937.937,0,0,0,0,2.188ZM1.563,10a.938.938,0,1,1,.938.938A.937.937,0,0,1,1.563,10ZM12.188,20c-.788,0-1.152-1.535-1.325-2.258a4.731,4.731,0,0,0-.992-2.3c-1.268-1.27-1.934-2.889-3.481-4.418a.468.468,0,0,1-.139-.333V2.34a.469.469,0,0,1,.46-.469,6.146,6.146,0,0,0,2.057-.632A11.214,11.214,0,0,1,13.437,0h.111c1.671,0,3.647.016,4.444,1.162a2.074,2.074,0,0,1,.24,1.743,3.089,3.089,0,0,1,.64,2.92,3.263,3.263,0,0,1,.364,3.1l0,0A2.828,2.828,0,0,1,20,10.856a2.334,2.334,0,0,1-2.326,2.269H13.7c.285,1.107,1.3,2.036,1.3,3.693C15,19.688,13.125,20,12.188,20Z" transform="translate(927 12498)" fill="#e1a700"/>
+    </g>
+  </g>
+</svg>

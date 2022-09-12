@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="209" height="48" viewBox="0 0 209 48">
+  <g id="Group_1477" data-name="Group 1477" transform="translate(-1129 -12483)">
+    <g id="Group_1402" data-name="Group 1402" transform="translate(244)">
+      <g id="Rectangle_426" data-name="Rectangle 426" transform="translate(885 12483)" fill="none" stroke="#7e7e7e" stroke-width="1">
+        <rect width="209" height="48" rx="24" stroke="none"/>
+        <rect x="0.5" y="0.5" width="208" height="47" rx="23.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_1476" data-name="Group 1476" transform="translate(232 1)">
+      <g id="Group_1399" data-name="Group 1399" transform="translate(36.973 9.506)">
+        <text id="EXCELLENT" transform="translate(928.027 12495.494)" font-size="15" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">EXCELLENT</tspan></text>
+        <text id="_55_Likes_" data-name="(55 Likes)" transform="translate(928.027 12512.494)" font-size="11" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">(55 Likes)</tspan></text>
+      </g>
+      <path id="Icon_awesome-heart" data-name="Icon awesome-heart" d="M20.638,3.615a6.1,6.1,0,0,0-8.33.607l-.879.906-.879-.906a6.1,6.1,0,0,0-8.33-.607A6.41,6.41,0,0,0,1.776,12.9l8.638,8.92a1.4,1.4,0,0,0,2.022,0l8.638-8.92a6.406,6.406,0,0,0-.437-9.281Z" transform="translate(924.001 12495.752)" fill="red"/>
+    </g>
+  </g>
+</svg>

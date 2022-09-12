@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="164" height="40" viewBox="0 0 164 40">
+  <g id="Group_1482" data-name="Group 1482" transform="translate(-273 -2079)">
+    <path id="Path_4241" data-name="Path 4241" d="M20,0H144a20,20,0,0,1,0,40H20A20,20,0,0,1,20,0Z" transform="translate(273 2079)" fill="#e1a700"/>
+    <text id="Add_To_Cart" data-name="Add To Cart" transform="translate(328.5 2105)" fill="#fff" font-size="14" font-family="Montserrat-Light, Montserrat" font-weight="300" letter-spacing="0.03em"><tspan x="0" y="0">Add To Cart</tspan></text>
+    <path id="Path_4286" data-name="Path 4286" d="M5.2,9.456h8.574a.473.473,0,0,0,.455-.343l1.891-6.619a.473.473,0,0,0-.455-.6H4.109L3.771.37A.473.473,0,0,0,3.309,0H.473a.473.473,0,1,0,0,.946H2.93L4.637,8.627a1.418,1.418,0,0,0,.563,2.72h8.573a.473.473,0,1,0,0-.946H5.2a.473.473,0,0,1,0-.945Zm9.839-6.619L13.417,8.51H5.58L4.319,2.837Zm0,0" transform="translate(301 2092.408)" fill="#fff"/>
+    <path id="Path_4287" data-name="Path 4287" d="M150,361.418A1.418,1.418,0,1,0,151.418,360,1.42,1.42,0,0,0,150,361.418Zm1.418-.473a.473.473,0,1,1-.473.473A.473.473,0,0,1,151.418,360.946Zm0,0" transform="translate(155.728 1743.754)" fill="#fff"/>
+    <path id="Path_4288" data-name="Path 4288" d="M362,361.418A1.418,1.418,0,1,0,363.418,360,1.42,1.42,0,0,0,362,361.418Zm1.418-.473a.473.473,0,1,1-.473.473A.473.473,0,0,1,363.418,360.946Zm0,0" transform="translate(-49.59 1743.754)" fill="#fff"/>
+  </g>
+</svg>
